@@ -1,1 +1,1 @@
-# Databases-exploration-using-SQL
+# Exploring greenhouse gas emissions database
