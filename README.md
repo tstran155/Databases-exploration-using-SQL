@@ -1,6 +1,12 @@
 # Exploring greenhouse gas emissions database
 
-In this notebook, I queried database using foundational SQL statements, filtered result sets, built sub-queries from multiple tables. I used Python SQLite3 module to run and visualize SQL statements. 
+In this notebook, I explore greenhouse gas emissions database of all provinces and terittories in Canada using Python SQLite3 module. The particular skills include: 
+
+- Using foundational SQL statements: SELECT, INSERT, UPDATE, and DELETE 
+- Filtering result and data using WHERE, COUNT, DISTINCT, and LIMIT 
+- Working with table: CREATE, ALTER, DROP, JOIN and load tables 
+- Using string patterns and ranges: ORDER and GROUP and built-in database functions 
+- Accessing databases with SQL and Python (Jupyter notebook) 
 
 Here is the link to download the dataset used in this notebook.
 
