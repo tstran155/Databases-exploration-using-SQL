@@ -6,7 +6,7 @@ In this notebook, I explore greenhouse gas emissions database of all provinces a
 - Filtering result and data using WHERE, COUNT, DISTINCT, and LIMIT 
 - Working with table: CREATE, ALTER, DROP, JOIN and load tables 
 - Using string patterns and ranges: ORDER and GROUP and built-in database functions 
-- Accessing databases with SQL and Python (Jupyter notebook) 
+- Accessing databases with SQL, Python, and create plots using seaborn library (Jupyter notebook)
 
 Here is the link to download the dataset used in this notebook.
 
