@@ -1,4 +1,4 @@
-# Exploring greenhouse gas emissions database
+# Exploring greenhouse gas emissions database of provinces and territories in Canada
 
 In this notebook, I explore greenhouse gas emissions database of all provinces and terittories in Canada using Python SQLite3 module. The particular skills include: 
 
