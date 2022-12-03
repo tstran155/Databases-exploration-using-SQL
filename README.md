@@ -3,8 +3,8 @@
 In this notebook, I explore greenhouse gas emissions database of all provinces and terittories in Canada using Python SQLite3 module. The particular skills include: 
 
 - Using foundational SQL statements: SELECT, INSERT, UPDATE, and DELETE 
-- Filtering result and data using WHERE, COUNT, DISTINCT, and LIMIT 
-- Working with table: CREATE, ALTER, DROP, JOIN and load tables 
+- Filtering result and data using WHERE, COUNT, DISTINCT, MAX, LIKE, and LIMIT 
+- Working with table: CREATE, ALTER, DROP, JOIN, PRGAMA and load tables 
 - Using string patterns and ranges: ORDER and GROUP and built-in database functions 
 - Accessing databases with SQL, Python, and create plots using seaborn library (Jupyter notebook)
 
